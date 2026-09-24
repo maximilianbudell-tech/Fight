@@ -1,0 +1,14 @@
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\bin\Debug\net10.0\Fight.exe
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\bin\Debug\net10.0\Fight.deps.json
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\bin\Debug\net10.0\Fight.runtimeconfig.json
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\bin\Debug\net10.0\Fight.dll
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\bin\Debug\net10.0\Fight.pdb
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\obj\Debug\net10.0\Fight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\obj\Debug\net10.0\Fight.AssemblyInfoInputs.cache
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\obj\Debug\net10.0\Fight.AssemblyInfo.cs
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\obj\Debug\net10.0\Fight.csproj.CoreCompileInputs.cache
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\obj\Debug\net10.0\Fight.dll
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\obj\Debug\net10.0\refint\Fight.dll
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\obj\Debug\net10.0\Fight.pdb
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\obj\Debug\net10.0\Fight.genruntimeconfig.cache
+C:\Dev\Skola Teknik\Programmering 1\Fight\Fight\obj\Debug\net10.0\ref\Fight.dll
